@@ -1,0 +1,34 @@
+127.0.0.1 localhost
+::1 localhost
+
+#emby会员验证服务器重定向
+#-----------------------------------------
+192.168.10.2 mb3admin.com
+#-----------------------------------------
+
+#xbox下载下载重定向
+#-----------------------------------------
+192.168.10.2 assets1.xboxlive.com
+192.168.10.2 assets2.xboxlive.com
+192.168.10.2 d1.xboxlive.com
+192.168.10.2 d2.xboxlive.com
+192.168.10.2 xvcf1.xboxlive.com
+192.168.10.2 xvcf2.xboxlive.com
+192.168.10.2 dlassets.xboxlive.com
+192.168.10.2 dlassets2.xboxlive.com
+#-----------------------------------------
+
+#自定义规则
+#-----------------------------------------
+||csdn.net^$important
+@@||www.mb3admin.com^$important
+||mb3admin.com^$dnstype=AAAA
+@@||wtradv.market.xiaomi.com^$important
+@@||sec.miui.com^$important
+@@||staticsns.cdn.bcebos.com^$important
+||dns.weixin.qq.com.cn^$important
+@@||mi-img.com^$important
+@@||sys.miui.com^$important
+@@||market.xiaomi.com^$important
+@@||t.paypal.com^$important
+#-----------------------------------------
