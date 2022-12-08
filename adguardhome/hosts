@@ -3,23 +3,24 @@
 
 #emby会员验证服务器重定向
 #-----------------------------------------
-192.168.10.2 mb3admin.com
+192.168.31.85 mb3admin.com
 #-----------------------------------------
 
 #xbox下载下载重定向
 #-----------------------------------------
-192.168.10.2 assets1.xboxlive.com
-192.168.10.2 assets2.xboxlive.com
-192.168.10.2 d1.xboxlive.com
-192.168.10.2 d2.xboxlive.com
-192.168.10.2 xvcf1.xboxlive.com
-192.168.10.2 xvcf2.xboxlive.com
-192.168.10.2 dlassets.xboxlive.com
-192.168.10.2 dlassets2.xboxlive.com
+192.168.31.85 assets1.xboxlive.com
+192.168.31.85 assets2.xboxlive.com
+192.168.31.85 d1.xboxlive.com
+192.168.31.85 d2.xboxlive.com
+192.168.31.85 xvcf1.xboxlive.com
+192.168.31.85 xvcf2.xboxlive.com
+192.168.31.85 dlassets.xboxlive.com
+192.168.31.85 dlassets2.xboxlive.com
 #-----------------------------------------
 
 #自定义规则
 #-----------------------------------------
+@@||gsp0.baidu.com^$important
 ||csdn.net^$important
 @@||www.mb3admin.com^$important
 ||mb3admin.com^$dnstype=AAAA
