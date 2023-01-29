@@ -8,14 +8,14 @@
 
 #xbox下载下载重定向
 #-----------------------------------------
-192.168.31.85 assets1.xboxlive.com
-192.168.31.85 assets2.xboxlive.com
-192.168.31.85 d1.xboxlive.com
-192.168.31.85 d2.xboxlive.com
-192.168.31.85 xvcf1.xboxlive.com
-192.168.31.85 xvcf2.xboxlive.com
-192.168.31.85 dlassets.xboxlive.com
-192.168.31.85 dlassets2.xboxlive.com
+#192.168.31.85 assets1.xboxlive.com
+#192.168.31.85 assets2.xboxlive.com
+#192.168.31.85 d1.xboxlive.com
+#192.168.31.85 d2.xboxlive.com
+#192.168.31.85 xvcf1.xboxlive.com
+#192.168.31.85 xvcf2.xboxlive.com
+#192.168.31.85 dlassets.xboxlive.com
+#192.168.31.85 dlassets2.xboxlive.com
 #-----------------------------------------
 
 #自定义规则
