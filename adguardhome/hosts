@@ -21,7 +21,7 @@
 #自定义规则
 #-----------------------------------------
 @@||gsp0.baidu.com^$important
-||csdn.net^$important
+#||csdn.net^$important
 @@||www.mb3admin.com^$important
 ||mb3admin.com^$dnstype=AAAA
 @@||wtradv.market.xiaomi.com^$important
@@ -31,5 +31,4 @@
 @@||mi-img.com^$important
 @@||sys.miui.com^$important
 @@||market.xiaomi.com^$important
-@@||t.paypal.com^$important
 #-----------------------------------------
